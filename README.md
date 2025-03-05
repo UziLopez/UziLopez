@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+  <img height="150" src="https://placehold.co/600x400"  />
 
 
 </div>
@@ -30,8 +30,28 @@
   <img  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=UziLopez&layout=compact&langs_count=8&theme=algolia&card_width=300" height="150" />
 </div>
 
+
+###
+
+# 🎨 UI / UX:
+
+
+
+<div align="center">
+<table>
+<td width="50%">
+Here’s a portfolio with some of the mockups I've worked on using <strong>Figma</strong>, inspired by platforms like YouTube, Google, Pinterest, Dribbble, among others.  I’m sharing one of the designs I’m most proud of.                                                                       
+</td>     
+<td width="50%">
+<div align="center">
+<a href="https://www.figma.com/design/XIv4egLvfCDwsY5sbbwuPu/IGNITECH?node-id=0-1&t=r3AafazVRhQjZ0o1-1" target="_blank"><img src="https://placehold.co/600x400" width="400"></a>
+</div>                                                                               
+</td> 
+</table>  
+</div>
+
+
 ---
-[![](https://visitcount.itsvg.in/api?id=UziLopez&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 
