@@ -36,7 +36,7 @@
                                                          
 
 <div align="center">
-Here’s a portfolio with some of the mockups I've worked on using <strong>Figma</strong>, inspired by platforms like YouTube, Google, Pinterest, Dribbble, among others.  I’m sharing one of the designs I’m most proud of.  
+Here’s a portfolio with some of the mockups I've worked on using <strong>Figma</strong>, inspired by platforms like YouTube, Google, Pinterest, Dribbble, among others.  I’m sharing one of the designs I’m most proud of.  <br>
 
 
 <table>
