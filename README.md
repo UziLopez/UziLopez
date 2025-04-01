@@ -1,5 +1,5 @@
 
-#   😃 Hi  I'm Ana and welcome to my github <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10%">
+#   😃 Hi  I'm Ana and welcome to my github <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%">
 
 <div align="center">
   <!-- <img height="150" src="https://placehold.co/600x400"  /> -->
