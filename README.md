@@ -35,9 +35,8 @@
 # 🎨 UI / UX:
                                                          
 
-<div align="center">
-Here’s a portfolio with some of the mockups I've worked on using <strong>Figma</strong>, inspired by platforms like YouTube, Google, Pinterest, Dribbble, among others.  I’m sharing one of the designs I’m most proud of.  <br>
 
+Here’s a portfolio with some of the mockups I've worked on using <strong>Figma</strong>, inspired by platforms like YouTube, Google, Pinterest, Dribbble, among others.  I’m sharing one of the designs I’m most proud of. 
 
 <table>
   <tr>
@@ -47,19 +46,19 @@ Here’s a portfolio with some of the mockups I've worked on using <strong>Figma
       </a>
     </td>
     <td>
-      <a href="https://www.figma.com/design/XIv4egLvfCDwsY5sbbwuPu/IGNITECH?node-id=0-1&t=r3AafazVRhQjZ0o1-1" target="_blank">
+      <a href="https://www.figma.com/design/dQAdzfMdagfNJMZ72SAzyv/Restaurant?node-id=0-1&t=0SbNJErlVnB004HV-1" target="_blank">
         <img src="Figma-2.png" alt="Figma 2">
       </a>
     </td>
     <td>
-      <a href="https://www.figma.com/design/XIv4egLvfCDwsY5sbbwuPu/IGNITECH?node-id=0-1&t=r3AafazVRhQjZ0o1-1" target="_blank">
+      <a href="https://www.figma.com/design/SDhyka9C1U87ejSGEOEA6h/VALLAX?t=0SbNJErlVnB004HV-1" target="_blank">
         <img src="Figma-3.png" alt="Figma 3">
       </a>
     </td>
   </tr>
 </table>
 
-</div>
+
 
 
 
