@@ -1,8 +1,7 @@
 
 <div align="center">
-  <img height="150" src="https://placehold.co/600x400"  />
-
-
+  <!-- <img height="150" src="https://placehold.co/600x400"  />
+ -->
 </div>
 
 ###
@@ -34,23 +33,32 @@
 ###
 
 # 🎨 UI / UX:
-
-
+                                                         
 
 <div align="center">
+Here’s a portfolio with some of the mockups I've worked on using <strong>Figma</strong>, inspired by platforms like YouTube, Google, Pinterest, Dribbble, among others.  I’m sharing one of the designs I’m most proud of.  
 <table>
+
 <td width="50%">
-Here’s a portfolio with some of the mockups I've worked on using <strong>Figma</strong>, inspired by platforms like YouTube, Google, Pinterest, Dribbble, among others.  I’m sharing one of the designs I’m most proud of.                                                                       
-</td>     
-<td width="50%">
-<div align="center">
-<a href="https://www.figma.com/design/XIv4egLvfCDwsY5sbbwuPu/IGNITECH?node-id=0-1&t=r3AafazVRhQjZ0o1-1" target="_blank"><img src="https://placehold.co/600x400" width="400"></a>
-</div>                                                                               
+    ![](Figma-1.png)      
 </td> 
+
+<td width="50%">
+    ![](Figma-2.png)      
+</td>
+
+<td width="50%">
+    ![](Figma-3.png)      
+</td>
+
 </table>  
 </div>
 
 
+
+
+<a href="https://www.figma.com/design/XIv4egLvfCDwsY5sbbwuPu/IGNITECH?node-id=0-1&t=r3AafazVRhQjZ0o1-1" target="_blank"></a>
+<div>   
 ---
 
 
