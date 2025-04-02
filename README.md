@@ -28,16 +28,11 @@
 <div align="center">
  <img  src="https://github-readme-stats-eight-theta.vercel.app/api?username=UziLopez&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" height="150" />
   <img  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=UziLopez&layout=compact&langs_count=8&theme=algolia&card_width=300" height="150" />
-
-
 </div>
 
 
 ###
-
-# 🎨 UI / UX:
-                                                         
-
+# 🎨 UI / UX: 
 
 Here’s a portfolio with some of the mockups I've worked on using <strong>Figma</strong>, inspired by platforms like YouTube, Google, Pinterest, Dribbble, among others.  I’m sharing one of the designs I’m most proud of. 
 
@@ -62,14 +57,20 @@ Here’s a portfolio with some of the mockups I've worked on using <strong>Figma
 </table>
 
 
+###
+# 🎓 Certifications & Diplomas  
+
+A collection of certifications and diplomas I have obtained, showcasing my skills and achievements.
+
+
+<li> <a href="DILATO_CERTIFICADO.pdf"> Testing Entry Level Program Certificate     
+      </a></li>
 
 
 
 
 
 
-
----
 
 
 
