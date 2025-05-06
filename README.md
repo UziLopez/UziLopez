@@ -57,8 +57,7 @@ Here’s a portfolio with some of the mockups I've worked on using <strong>Figma
 A collection of certifications and diplomas I have obtained, showcasing my skills and achievements.
 
 
-<li> <a href="DILATO_CERTIFICADO.pdf"> Testing Entry Level Program Certificate     
-      </a></li>
+<li> <a href="DILATO_CERTIFICADO.pdf">[DILATO] Testing Entry Level Program Certificate</a></li>
 
 
 
